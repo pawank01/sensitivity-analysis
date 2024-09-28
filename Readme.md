@@ -24,7 +24,7 @@ This project evaluates the stock of Woolworths Group Limited using the Dividend 
 #### Key Variables:
 - LIMIT_BAL: Credit limit or stock value
 - Historical Returns: Calculated using the log-return formula:
-    ![image](https://github.com/user-attachments/assets/6115ce8b-38b6-43dd-b6cf-1d1faea507f6)
+  ![image](https://github.com/user-attachments/assets/6115ce8b-38b6-43dd-b6cf-1d1faea507f6)
 - Dividend Growth Rate (g):
   ![image](https://github.com/user-attachments/assets/8cd9077b-058f-47dc-a861-dd86299df33e) 
 - Discount Rate (r): Calculated based on historical returns.
